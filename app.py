@@ -1,3 +1,8 @@
+import sys
+import streamlit as st
+
+st.write(f"Python version: {sys.version}")
+
 import streamlit as st
 import os
 os.system("pip install matplotlib")
