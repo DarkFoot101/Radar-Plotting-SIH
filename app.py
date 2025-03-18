@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt  # type: ignore
+import matplotlib.pyplot as plt  
 from math import pi
 
 # Apply LinkedIn-like white and blue theme using custom CSS
