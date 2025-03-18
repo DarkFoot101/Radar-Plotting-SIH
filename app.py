@@ -1,4 +1,6 @@
 import streamlit as st
+import os
+os.system("pip install matplotlib")
 import matplotlib.pyplot as plt  
 from math import pi
 
