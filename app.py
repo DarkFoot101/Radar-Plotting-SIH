@@ -1,10 +1,6 @@
 import sys
 import streamlit as st
-
-st.write(f"Python version: {sys.version}")
 import os
-os.system("pip install -r requirements.txt")
-
 import matplotlib.pyplot as plt  
 from math import pi
 
